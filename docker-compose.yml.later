@@ -1,5 +1,12 @@
 # C:\Program Files\PostgreSQL\18\data
 # port : 5432
+# psql -U postgres
+#nodemon server.js
+
+
+
+
+
 
 services:
   postgres:
